@@ -134,7 +134,7 @@ Python · C++ · Java
 
 # 📫 Contact
 
-- 💬 Discord : **SeoJin_OS**
+- 💬 Discord : ****
 - 🐙 GitHub : **github.com/SeoJin0513**
 
 ---
@@ -142,7 +142,5 @@ Python · C++ · Java
 <div align="center">
 
 ### ⭐ Thanks for visiting my GitHub!
-
-꾸준히 배우고, 꾸준히 개발하는 개발자가 되겠습니다.
 
 </div>
